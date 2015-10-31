@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Puppy Dog Slot Machine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sound_on">Sound On</string>
+    <string name="action_sound_off">Sound Off</string>
+
+</resources>
